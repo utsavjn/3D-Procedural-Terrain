@@ -1,0 +1,62 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) HD 8500M/8700M (ID=0x6601)
+    Vendor:   ATI
+    VRAM:     2027 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.214 seconds
+Platform assembly: C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Utsav\Desktop\Portfolio\Projects\Projects\5. VR Terrain\Submission\PC Build\Terrain_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 59Hz; virtual: 3046x1052 at -1680,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.266942 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 621c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.469829 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.235484 ms (FindLiveObjects: 0.033070 ms CreateObjectMapping: 0.015394 ms MarkObjects: 0.163642 ms  DeleteObjects: 0.016535 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.734706 ms
+
+Unloading 328 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 1.228740 ms (FindLiveObjects: 0.067281 ms CreateObjectMapping: 0.027938 ms MarkObjects: 0.150527 ms  DeleteObjects: 0.981852 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342678 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.234344 ms (FindLiveObjects: 0.036491 ms CreateObjectMapping: 0.018815 ms MarkObjects: 0.166492 ms  DeleteObjects: 0.011403 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.368649 ms
+
+Unloading 210 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.762902 ms (FindLiveObjects: 0.032500 ms CreateObjectMapping: 0.017675 ms MarkObjects: 0.137983 ms  DeleteObjects: 0.574172 ms)
+
